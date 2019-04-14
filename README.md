@@ -1,5 +1,5 @@
 # Healthcare-Tech
-Healthcare Tech Startups from Angel List
+Healthcare Tech Startups from AngelList
 
 
 # Healthcare Tech Jobs
