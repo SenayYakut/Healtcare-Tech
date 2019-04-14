@@ -43,3 +43,21 @@ Healthcare Tech Startups from Angel List
 19.Hospital IQ
 
 20.YOGO# Healtcare-Tech
+
+21.PreSafe
+
+22.Glidian
+
+23.Siemens Healthineers
+
+24.Vimo Labs
+
+25.Biostrap
+
+26.Twins Digital
+
+27.Lark
+
+28.Qventus
+
+29.DrChrono
